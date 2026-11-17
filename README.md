@@ -16,7 +16,7 @@
 
 ## 🌌 About The Project
 
-**Axther Noir** is a modern, high-performance web application designed for manga and light novel enthusiasts. Built with a sleek dark-themed aesthetic and ambient lighting effects, it serves as an immersive discovery hub where users can instantly find, filter, and explore titles powered by live AniList databases.
+**Axther** is a modern, high-performance web application designed for manga and light novel enthusiasts. Built with a sleek dark-themed aesthetic and ambient lighting effects, it serves as an immersive discovery hub where users can instantly find, filter, and explore titles powered by live AniList databases.
 
 Whether you are browsing on a desktop or navigating via mobile with a quick thumb-friendly layout, Axther Noir delivers a seamless experience with zero friction.
 
